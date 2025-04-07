@@ -1,4 +1,6 @@
 # ALCHERA Project 작업일지
+리뉴얼 사이트: https://www.alchera.ai/
+레퍼 사이트: 
 
 # 250407
 1. 주제 및 레퍼런스 체크
