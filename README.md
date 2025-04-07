@@ -1,6 +1,6 @@
 # ALCHERA Project 작업일지
-리뉴얼 사이트: https://www.alchera.ai/
-레퍼 사이트: 
+- 리뉴얼 사이트: https://www.alchera.ai/
+- 레퍼 사이트: https://convencion-hyundai.plastic.design/?utm_source=awwwards&utm_medium=web&utm_campaign=hyundai_convention&utm_content=awwwards_summit
 
 # 250407
 1. 주제 및 레퍼런스 체크
