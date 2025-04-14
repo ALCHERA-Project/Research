@@ -1,10 +1,14 @@
 # ALCHERA Project 작업일지
 - 리뉴얼 사이트: https://www.alchera.ai/
-- 레퍼 사이트: https://convencion-hyundai.plastic.design/?utm_source=awwwards&utm_medium=web&utm_campaign=hyundai_convention&utm_content=awwwards_summit
+- 레퍼 사이트(메인): https://convencion-hyundai.plastic.design/?utm_source=awwwards&utm_medium=web&utm_campaign=hyundai_convention&utm_content=awwwards_summit
+- 레퍼 사이트(서브) : https://www.pltt.xyz/pages/service/video.php
 - gsap 레퍼: https://madewithgsap.com/
 
 # 2504014
-1. 
+0. 메인 페이지 내용 정리
+2. 디자인 가이드 설정
+- 폰트 : 프리텐다드(KOR) / Raleway(ENG) - https://fonts.google.com/specimen/Raleway
+- 폰트 사이즈
 
 # 250407
 1. 주제 및 레퍼런스 체크
